@@ -11,9 +11,10 @@ The primary goal of this project is to predict the likelihood of a student secur
   XGBoost: Utilizing the power of gradient boosting, XGBoost delivers accurate predictions by combining weak learners.
   Decision Tree: A classic model for decision-making, the decision tree aids in understanding the decision pathways leading to placement predictions.
   Logistic Regression: This statistical method provides insights into the probability of placement based on various input features.
-
-# Internship with Cloud Counselage:
- This project is made possible through the internship with Cloud Counselage. Their support and collaboration have been instrumental in the development and success of this predictive model. Graduation Year Calculation:
+2. Internship with Cloud Counselage:
+ This project is made possible through the internship with Cloud Counselage. Their support and collaboration have been instrumental in the development and success of this predictive model. 
+ 
+ # Graduation Year Calculation:
  In addition to placement prediction, the project includes a feature to calculate the anticipated year of graduation based on the student's current academic standing. This feature adds a practical element, helping students plan for their future.
 
 #CollegePlacement #PredictiveModeling #InternshipProject #CloudCounselage #XGBoost #DecisionTree #LogisticRegression #DataScience #GraduationPlanning #GitHubProject
